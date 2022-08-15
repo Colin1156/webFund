@@ -1,0 +1,6 @@
+We make a HTTP request to a website: example-> amazon.com
+We get back a response from the web server that amazon.com is assoicated with
+The response is a web page  (front-end)
+A web page consists of HTML CSS JavaScript
+HTML = Content of the page (Bold Text, regular text, buttons, form inputsm images, hyper links
+CSS = Styling of the content (layout, colors, making, some content next to other content)
