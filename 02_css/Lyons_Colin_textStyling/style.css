@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+   
+}
+body{
+    padding:20px;
+}
+h1{
+    color:white;
+    background:black;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+#aquamarine{
+    color:aquamarine;
+    display: inline-block;
+}
+h2{
+    color:white;
+    background:rgb(56, 45, 56);
+    font-size: 50px;
+    text-align:center;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+h3{
+    color:darkslateblue;
+    background:lightblue;
+    font-size: 50px;
+    text-align: right;
+    text-decoration: underline;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+}
+
+.row{
+    display:flex;
+    gap: 10px;
+    border: 1px solid red;
+    padding: 10px 0px;
+}
+
+.col-1{
+    flex: 1;
+    border:1px solid black;
+    padding:20px;
+    background-color: lightcyan;
+}
+
+.col-2{
+    flex: 2;
+    border:1px solid black;
+    padding:20px;
+    background-color: lightcyan;
+}
